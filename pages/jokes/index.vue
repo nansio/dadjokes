@@ -7,14 +7,8 @@
 
 <script>
 import axios from 'axios'
-import Joke from '@/components/Joke'
-import SearchJoke from '@/components/SearchJoke'
 
 export default {
-  components: {
-    Joke,
-    SearchJoke
-  },
   head() {
     return {
       title: 'DadJokes'
