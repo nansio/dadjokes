@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fdadjokes\u002F_nuxt\u002Fstatic\u002F1645082838",layout:"default",error:a,serverRendered:true,routePath:"\u002Fjokes",config:{_app:{basePath:"\u002Fdadjokes\u002F",assetsPath:"\u002Fdadjokes\u002F_nuxt\u002F",cdnURL:a}}}}(null));
